@@ -1,5 +1,12 @@
 hidden=[".config"]
 
+# The command that is executed when the run button is clicked.
+language = "html"
+
+run = ""
+# The default file opened in the editor.
+entrypoint = "src/main.rs"
+
 # hosting is currently hardcoded for this language
 # [hosting]
 # route = "/"
